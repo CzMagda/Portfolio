@@ -16,7 +16,7 @@ Manual Software Tester Portfolio
   <li>Knowledge of the ISTQB syllabus</li>
   <li>HTML, CSS, JavaScript</li>
   <li>Test case designing skills</li>
-  <li>Test scenarios</li>
+  <li>Creating Test scenarios</li>
   <li>Creating Bug reports</li>
 </ul>
 
