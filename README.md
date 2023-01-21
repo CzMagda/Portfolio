@@ -5,36 +5,90 @@ Manual Software Tester Portfolio
 <h2>About me</h2>
 <header/>
 
-My name is Magdalena Czerech. I am a software tester student. I’m looking for my first employment in this industry remotely or in person in Białystok. I am currently learning all the time by reading books, being active in classes at my university, moreover I’m learning HTML, CSS, Postman, Git and SQL. I’m preparing for ISTQB exam. Currently I’m spending my every free moment learning about testing.
+<p>My name is Magdalena Czerech, a software tester student. I am looking for my first employment in this industry remotely or in person in Białystok. I am learning all the time by reading books, being active in classes at my university and doing online courses. Recently, I learned how to use tools like <b>Postman</b>, <b>Git</b> and browser <b>DevTools</b>. Currently, I am focused on learning basics of <b>Web Development (HTML, CSS and JS)</b> to understand programming better. Moreover, I am preparing for the <b>ISTQB</b> exam. Additionally, to improve my english skills I decided to attend english classes.</p>
 
 <h2>Tech skills</h2>
 
 <ul>
-<li>SQL</li>
-<li>HTML, CSS, JavaScript (in progress)</li>
-<li>Knowledge of the ISTQB syllabus</li>
-<li>Test case designing skills</li>
-<li>Creating Bug reports</li>
-</ul>
-
-<h2>Soft skills</h2>
-
-<ul>
-<li>Analytical thinking ability</li>
-<li>Ability to manage working time</li>
-<li>Willingness to develop and learn</li>
-<li>Excellent interpersonal skills</li>
-<li>Teamwork and collaboration</li>
-<li>Ability to take initiative</li>
-<li>Ability to plan effectively</li>
-<li>Creativity</li>
+  <li>SQL</li>
+  <li>Rest API</li>
+  <li>Responsive Web Design Testing (RWD)</li>
+  <li>Knowledge of the ISTQB syllabus</li>
+  <li>HTML, CSS, JavaScript</li>
+  <li>Test case designing skills</li>
+  <li>Test scenarios</li>
+  <li>Creating Bug reports</li>
 </ul>
 
 <h2>Tools</h2>
 
 <ul>
-<li>Postman, Swagger</li>
-<li>Trello, JIRA</li>
-<li>GIT (in progress)</li>
-<li>DevTools</li>
+  <li>Postman, Swagger</li>
+  <li>Trello, JIRA</li>
+  <li>GIT</li>
+  <li>DevTools</li>
+  <li>Visual Studio Code</li>
 </ul>
+ 
+<h2>Soft skills</h2>
+
+<ul>
+  <li>Analytical thinking ability</li>
+  <li>Ability to manage working time</li>
+  <li>Willingness to develop and learn</li>
+  <li>Excellent interpersonal skills</li>
+  <li>Teamwork and collaboration</li>
+  <li>Ability to take initiative</li>
+  <li>Ability to plan effectively</li>
+  <li>Creativity</li>
+</ul>
+ 
+<h2>Certificate</h2>
+<ul>
+  <li>"Zostań Testerem" (Become a Tester) (48 h); 03-18.09.2022r. </br>
+  Organizer: SII Training Practice </br>
+  <a href="https://sii.pl/szkolenia/oferta/zostan-testerem/">Zostań Testerem</a></li>
+</ul>
+
+<h2>Courses</h2>
+<ul>
+  <li> Testowanie manualne aplikacji (Manual testing of applications)</br>
+  Organizer: Ifs&Whiles 
+  <a href="https://www.czyitjestdlamnie.pl/warsztaty-testowanie-manualne-aplikacji"></br>Testowanie manualne aplikacji</li>
+  <li>SQL part 1 and 2 </br>
+  Organizer: Ifs&Whiles </li>
+  <li>API HTTP Postman </br>
+  Organizer: Ifs&Whiles</li>
+  <li>Learn HTML</br>
+  Organizer: Codecademy </br>
+  <a href="https://www.codecademy.com/learn/learn-html">Learn HTML</a></li>
+  <li> Learn JavaScript </br>
+  Organizer: Codecademy (in progress)</br>
+  <a href="https://www.codecademy.com/learn/introduction-to-javascript">Learn JavaScript</a>
+  <li>Odśwież swój angielski (Update your English)</br>
+  Organizer: Nauka angielskiego Underground </br>
+  06/2022 - present </li>
+</ul>
+
+<h2>Webinars and Meetings</h2>
+<ul>
+  <li>“Jak wyróżnić się podczas rekrutacji na testera”</br>
+  Organizer: 4_testers</li>
+  <li>„Wspólne rozwiązywanie zadań z SQLa”</br>
+  Organizer: GeekON</li>
+  <li>"Testowanie REST API dla początkujących"</br>
+  Organizer: AkademiaQA</li>
+  <li>"Porozmawiajmy o DevTools'ach!"</br>
+  Organizer: JavaGirl - Emilia Lendzion-Barszcz</li>
+  <li>Meetup BiałQA #29 – Powered by Sii</br>
+  Organizer: SII</li>
+</ul>
+
+<h2>Books</h2>
+<ul>
+ <li>Radosław Smiglin "Zawód tester"</li>
+ <li>Krzysztof Jadczyk "Pasja testowania"</li>
+ <li>Karolina Zmitrowicz "Tester oprogramowania" (in progress)</li>
+</ul>
+
+  
