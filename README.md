@@ -95,4 +95,5 @@ Manual Software Tester Portfolio
 <ul>
   <li><a href="https://docs.google.com/spreadsheets/d/1eRVb_S9uuHFQUoCJXY80WxxeTbHUXhHX/edit?usp=sharing&ouid=104192795688704427530&rtpof=true&sd=true">Przypadki testowe - aplikacja MrBuggy</a></li>
   <li><a href="https://drive.google.com/file/d/11hci3DARkCSVlCBjYzKGe4_4qQVvSCAk/view?usp=sharing">TestLink przypadki testowe - MrBuggy2</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1zsD4O2yw5Ywn4TWx2ocRzeyFAAaA44xB?usp=sharing">Zgłoszenia w Jira</a></li>
 </ul>
