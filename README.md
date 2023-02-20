@@ -97,5 +97,5 @@ Manual Software Tester Portfolio
   <li><a href="https://drive.google.com/file/d/11hci3DARkCSVlCBjYzKGe4_4qQVvSCAk/view?usp=sharing">TestLink przypadki testowe - MrBuggy2</a></li>
   <li><a href="https://drive.google.com/drive/folders/1zsD4O2yw5Ywn4TWx2ocRzeyFAAaA44xB?usp=sharing">Zgłoszenia w Jira</a></li>
   <li><a href="https://drive.google.com/drive/folders/1TbD4RTpZ8ThSOdTCGnzdo9qGvqDcbfND?usp=sharing">Błąd na stronie Bulldogjob, dot. firmy BrickBite</a></li>
-  <li><a href="https://docs.google.com/document/d/1lPhgWbMQJ4XeHSdowc08pdRsE1Gkan9H/edit?usp=sharing&ouid=104192795688704427530&rtpof=true&sd=true>Przypadki testowe dot. przetestowania narzędzia Jira</a></li>
+  <li><a href="https://docs.google.com/document/d/1lPhgWbMQJ4XeHSdowc08pdRsE1Gkan9H/edit?usp=sharing&ouid=104192795688704427530&rtpof=true&sd=true">Przypadki testowe dot. przetestowania narzędzia Jira</a></li>
 </ul>
