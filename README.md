@@ -99,4 +99,5 @@ Manual Software Tester Portfolio
   <li><a href="https://drive.google.com/drive/folders/1qGcb1Nwckbgs70EY7isHR1P6xQGEQmWH?usp=sharing">Zgłoszenia w Jira dot. WCAG 2.1</a></li>
   <li><a href="https://drive.google.com/drive/folders/1TbD4RTpZ8ThSOdTCGnzdo9qGvqDcbfND?usp=sharing">Błąd na stronie Bulldogjob, dot. firmy BrickBite</a></li>
   <li><a href="https://docs.google.com/document/d/1lPhgWbMQJ4XeHSdowc08pdRsE1Gkan9H/edit?usp=sharing&ouid=104192795688704427530&rtpof=true&sd=true">Przypadki testowe dot. przetestowania narzędzia Jira</a></li>
+  <li><a href="https://trello.com/invite/b/Fkh389RO/ATTI6cba5c19c223d63793358838915aaeae9B53D83B/warsztaty-testowanie-manualne">Błędy w warsztatowej aplikacji do zapisywania wydatków</a></li>
 </ul>
