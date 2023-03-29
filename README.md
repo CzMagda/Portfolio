@@ -82,6 +82,8 @@ Manual Software Tester Portfolio
   Organizer: JavaGirl - Emilia Lendzion-Barszcz</li>
   <li>Meetup BiałQA #29 – Powered by Sii</br>
   Organizer: SII</li>
+  <li>meet.js Białystok #50 - spotkanie front-endowe</br>
+  Organizer: meet.js</li>
 </ul>
 
 <h2>Books</h2>
