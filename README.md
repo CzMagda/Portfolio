@@ -95,8 +95,9 @@ Manual Software Tester Portfolio
 
 <h2>My Test Documentation</h2>
 <ul>
-  <li><a href="https://docs.google.com/spreadsheets/d/1eRVb_S9uuHFQUoCJXY80WxxeTbHUXhHX/edit?usp=sharing&ouid=104192795688704427530&rtpof=true&sd=true">Przypadki testowe - aplikacja MrBuggy</a></li>
-  <li><a href="https://drive.google.com/file/d/11hci3DARkCSVlCBjYzKGe4_4qQVvSCAk/view?usp=sharing">TestLink przypadki testowe - MrBuggy2</a></li>
+<p> A) PRZYPADKI TESTOWE - APLIKACJA MrBuggy:</p>
+  <li><a href="https://docs.google.com/spreadsheets/d/1eRVb_S9uuHFQUoCJXY80WxxeTbHUXhHX/edit?usp=sharing&ouid=104192795688704427530&rtpof=true&sd=true">Excel: przypadki testowe - aplikacja MrBuggy</a></li>
+  <li><a href="https://drive.google.com/file/d/11hci3DARkCSVlCBjYzKGe4_4qQVvSCAk/view?usp=sharing">TestLink: przypadki testowe - aplikacja MrBuggy2</a></li>
   <li><a href="https://drive.google.com/drive/folders/1zsD4O2yw5Ywn4TWx2ocRzeyFAAaA44xB?usp=sharing">Zgłoszenia w Jira</a></li>
   <li><a href="https://drive.google.com/drive/folders/1qGcb1Nwckbgs70EY7isHR1P6xQGEQmWH?usp=sharing">Zgłoszenia w Jira dot. WCAG 2.1</a></li>
   <li><a href="https://drive.google.com/drive/folders/1TbD4RTpZ8ThSOdTCGnzdo9qGvqDcbfND?usp=sharing">Błąd na stronie Bulldogjob, dot. firmy BrickBite</a></li>
