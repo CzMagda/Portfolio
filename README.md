@@ -98,13 +98,16 @@ Manual Software Tester Portfolio
 <p> A) PRZYPADKI TESTOWE:</p>
   <li><a href="https://docs.google.com/spreadsheets/d/1eRVb_S9uuHFQUoCJXY80WxxeTbHUXhHX/edit?usp=sharing&ouid=104192795688704427530&rtpof=true&sd=true">Excel: przypadki testowe - aplikacja MrBuggy</a></li>
   <li><a href="https://drive.google.com/file/d/11hci3DARkCSVlCBjYzKGe4_4qQVvSCAk/view?usp=sharing">TestLink: przypadki testowe - aplikacja MrBuggy2</a></li>
-  <li><a href="https://docs.google.com/document/d/1lPhgWbMQJ4XeHSdowc08pdRsE1Gkan9H/edit?usp=sharing&ouid=104192795688704427530&rtpof=true&sd=true">Word: przypadki testowe - narzędzie Jira</a></li>
+  <li><a href="https://docs.google.com/document/d/1lPhgWbMQJ4XeHSdowc08pdRsE1Gkan9H/edit?usp=sharing&ouid=104192795688704427530&rtpof=true&sd=true">Word: przypadki testowe - narzędzie Jira</a></li> <br/>
+  
  <p> B) ZGŁOSZENIA W TRELLO BŁĘDÓW WYSTĘPUJĄCYCH W WARSZTATOWEJ APLIKACJI:</p>
-  <li><a href="https://trello.com/invite/b/Fkh389RO/ATTI6cba5c19c223d63793358838915aaeae9B53D83B/warsztaty-testowanie-manualne">Błędy w warsztatowej aplikacji do zapisywania wydatków</a></li>
-<p> c) ZGŁOSZENIA W JIRA BŁĘDÓW/USPRAWNIEŃ WYSTĘPUJĄCYCH NA STRONACH INTERNETOWYCH:</p>
-  <li><a href="https://drive.google.com/drive/folders/1zsD4O2yw5Ywn4TWx2ocRzeyFAAaA44xB?usp=sharing">Zgłoszenia dot. strony:zakupowej, rządowej, firmowej </a></li>
+  <li><a href="https://trello.com/invite/b/Fkh389RO/ATTI6cba5c19c223d63793358838915aaeae9B53D83B/warsztaty-testowanie-manualne">Błędy w warsztatowej aplikacji do zapisywania wydatków</a></li><br/>
+  
+<p> C) ZGŁOSZENIA W JIRA BŁĘDÓW/USPRAWNIEŃ WYSTĘPUJĄCYCH NA STRONACH INTERNETOWYCH:</p>
+  <li><a href="https://drive.google.com/drive/folders/1zsD4O2yw5Ywn4TWx2ocRzeyFAAaA44xB?usp=sharing">Zgłoszenia dot. strony: zakupowej, rządowej, firmowej </a></li>
   <li><a href="https://drive.google.com/drive/folders/1qGcb1Nwckbgs70EY7isHR1P6xQGEQmWH?usp=sharing">Zgłoszenia dot. PGNiG (WCAG 2.1)</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1TbD4RTpZ8ThSOdTCGnzdo9qGvqDcbfND?usp=sharing">Błąd na stronie Bulldogjob, dot. firmy BrickBite</a></li
+  <li><a href="https://drive.google.com/drive/folders/1TbD4RTpZ8ThSOdTCGnzdo9qGvqDcbfND?usp=sharing">Błąd na stronie Bulldogjob, dot. firmy BrickBite</a></li></br>
+    
   <p> D) ZGŁOSZENIA W JIRA BŁĘDÓW/USPRAWNIEŃ - TESTY MOBILNE:<p>
   <li><a href="https://drive.google.com/file/d/18mGJWgp4aJrow2ui30LNdnGOjKyneUAN/view?usp=sharing">Aplikacja Too Good To Go - błędne odczytywanie lokalizacji urządzenia<a/></li>
   <li><a href="https://drive.google.com/drive/folders/1qnwS9qgQz4D4k8tmYtj4hZQtoPU1bfhY?usp=sharing">Błędy/usprawnienia dot. stron Ikea i meble.mobi</a></li>
