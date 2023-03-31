@@ -103,4 +103,5 @@ Manual Software Tester Portfolio
   <li><a href="https://docs.google.com/document/d/1lPhgWbMQJ4XeHSdowc08pdRsE1Gkan9H/edit?usp=sharing&ouid=104192795688704427530&rtpof=true&sd=true">Przypadki testowe dot. przetestowania narzędzia Jira</a></li>
   <li><a href="https://trello.com/invite/b/Fkh389RO/ATTI6cba5c19c223d63793358838915aaeae9B53D83B/warsztaty-testowanie-manualne">Błędy w warsztatowej aplikacji do zapisywania wydatków</a></li>
   <li><a href="https://drive.google.com/file/d/18mGJWgp4aJrow2ui30LNdnGOjKyneUAN/view?usp=sharing">Aplikacja Too Good To Go - błędne odczytywanie lokalizacji urządzenia [testy mobilne]<a/></li>
+  <li><a href="https://drive.google.com/drive/folders/1qnwS9qgQz4D4k8tmYtj4hZQtoPU1bfhY?usp=sharing">Błędy lub usprawnienia dot. stron Ikea i meble.mobi [testy mobilne]</a></li>
 </ul>
