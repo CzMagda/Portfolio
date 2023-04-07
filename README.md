@@ -112,4 +112,5 @@ Manual Software Tester Portfolio
   <li><a href="https://drive.google.com/file/d/18mGJWgp4aJrow2ui30LNdnGOjKyneUAN/view?usp=sharing">Aplikacja Too Good To Go - błędne odczytywanie lokalizacji urządzenia<a/></li>
   <li><a href="https://drive.google.com/drive/folders/1qnwS9qgQz4D4k8tmYtj4hZQtoPU1bfhY?usp=sharing">Błędy/usprawnienia dot. stron Ikea i meble.mobi</a></li>
   <li><a href="https://drive.google.com/file/d/1zD_NGtHmNVCXA5tYqrzmfRlUiDnuLa4v/view?usp=sharing">Strona UwB - niedziałające hiperłącze dot. wydziałów/instytutów</a></li>
+  <li> <a href="https://drive.google.com/file/d/1X0jf2FOE8gedCRpNoZSLtO3el-O8NYtv/view?usp=sharing"> Aplikacja Testowanie Oprogramowania - niedziałający słownik</a></li>
 </ul>
