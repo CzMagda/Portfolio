@@ -7,6 +7,17 @@ Manual Software Tester Portfolio
 
 <p>My name is Magdalena Czerech, a software tester student. I am looking for my first employment in this industry remotely or in person in Białystok. I am learning all the time by reading books, being active in classes at my university and doing online courses. Recently, I learned how to use tools like <b>Postman</b>, <b>Git</b> and browser <b>DevTools</b>. Currently, I am focused on learning basics of <b>Web Development (HTML, CSS and JS)</b> to understand programming better. Moreover, I am preparing for the <b>ISTQB</b> exam. Additionally, to improve my english skills I decided to attend english classes.</p>
 
+<h2>Experience</h2>
+<ol>
+<li>Narravia - beta tester - April 2023</li>
+<li>Quikś - beta tester - May 2023</li>
+</ol>
+<ul>
+<li>testing mobile apps</li>
+<li>reporting bugs and improvements </li>
+<li>providing feedback of the applikations work</li>
+</ul>
+
 <h2>Tech skills</h2>
 
 <ul>
