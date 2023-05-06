@@ -9,8 +9,8 @@ Manual Software Tester Portfolio
 
 <h2>Experience</h2>
 <ol>
-<li>Narravia - beta tester - April 2023</li>
-<li>Quikś - beta tester - May 2023</li>
+<li>"Narravia" - beta tester - April 2023</li>
+<li>"Quikś" - beta tester - May 2023</li>
 </ol>
 <ul>
 <li>testing mobile apps</li>
