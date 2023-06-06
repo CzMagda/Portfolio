@@ -74,7 +74,7 @@ Manual Software Tester Portfolio
   Organizer: Codecademy </br>
   <a href="https://www.codecademy.com/learn/learn-html">Learn HTML</a></li>
   <li> Learn JavaScript </br>
-  Organizer: Codecademy (in progress)</br>
+  Organizer: Codecademy </br>
   <a href="https://www.codecademy.com/learn/introduction-to-javascript">Learn JavaScript</a>
   <li>Odśwież swój angielski (Update your English)</br>
   Organizer: Nauka angielskiego Underground </br>
@@ -101,7 +101,7 @@ Manual Software Tester Portfolio
 <ul>
  <li>Radosław Smiglin "Zawód tester"</li>
  <li>Krzysztof Jadczyk "Pasja testowania"</li>
- <li>Karolina Zmitrowicz "Tester oprogramowania" (in progress)</li>
+ <li>Karolina Zmitrowicz "Tester oprogramowania"</li>
 </ul>
 
 <h2>My Test Documentation</h2>
