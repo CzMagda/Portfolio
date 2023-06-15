@@ -110,7 +110,8 @@ Manual Software Tester Portfolio
 <p> A) PRZYPADKI TESTOWE:</p>
   <li><a href="https://docs.google.com/spreadsheets/d/1eRVb_S9uuHFQUoCJXY80WxxeTbHUXhHX/edit?usp=sharing&ouid=104192795688704427530&rtpof=true&sd=true">Excel: przypadki testowe - aplikacja MrBuggy</a></li>
   <li><a href="https://drive.google.com/file/d/11hci3DARkCSVlCBjYzKGe4_4qQVvSCAk/view?usp=sharing">TestLink: przypadki testowe - aplikacja MrBuggy2</a></li>
-  <li><a href="https://docs.google.com/document/d/1lPhgWbMQJ4XeHSdowc08pdRsE1Gkan9H/edit?usp=sharing&ouid=104192795688704427530&rtpof=true&sd=true">Word: przypadki testowe - narzędzie Jira</a></li> <br/>
+  <li><a href="https://docs.google.com/document/d/1lPhgWbMQJ4XeHSdowc08pdRsE1Gkan9H/edit?usp=sharing&ouid=104192795688704427530&rtpof=true&sd=true">Word: przypadki testowe - narzędzie Jira</a></li> 
+  <li><a href="https://drive.google.com/file/d/1_VLWhS_skeRHwU5poxSn2vt4Q-7Ehu8Z/view?usp=sharing"> Przypadki testowe dot. testów w Cypresie na str. UwB</a></li><br/>
   
  <p> B) ZGŁOSZENIA W TRELLO BŁĘDÓW WYSTĘPUJĄCYCH W WARSZTATOWEJ APLIKACJI:</p>
   <li><a href="https://trello.com/invite/b/Fkh389RO/ATTI6cba5c19c223d63793358838915aaeae9B53D83B/warsztaty-testowanie-manualne">Błędy w warsztatowej aplikacji do zapisywania wydatków</a></li><br/>
