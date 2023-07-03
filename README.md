@@ -5,7 +5,7 @@ Manual Software Tester Portfolio
 <h2>About me</h2>
 <header/>
 
-<p>My name is Magdalena Czerech, a software tester student. I am looking for my first employment in this industry remotely or in person in Białystok. I am learning all the time by reading books, being active in classes at my university and doing online courses. Recently, I learned how to use tools like <b>Postman</b>, <b>Git</b> and browser <b>DevTools</b>. Currently, I am focused on learning basics of <b>Web Development (HTML, CSS and JS)</b> to understand programming better. Moreover, I am preparing for the <b>ISTQB</b> exam. Additionally, to improve my english skills I decided to attend english classes.</p>
+<p>My name is Magdalena Czerech, a software tester student. I am looking for my first employment in this industry remotely or in person in Białystok. I am learning all the time by reading books and doing online courses. In June, I completed post-graduate studies "Software Tester" at the Białystok University of Technology. Recently, I learned how to use tools like <b>Postman</b>, <b>Git</b> and browser <b>DevTools</b>. Currently, I am focused on learning basics of <b>Web Development (HTML, CSS and JS)</b> to understand programming better. Moreover, I am preparing for the <b>ISTQB</b> exam. Additionally, to improve my english skills I decided to attend english classes.</p>
 
 <h2>Experience</h2>
 <ol>
@@ -76,7 +76,10 @@ Manual Software Tester Portfolio
   <a href="https://www.codecademy.com/learn/learn-html">Learn HTML</a></li>
   <li> Learn JavaScript </br>
   Organizer: Codecademy </br>
-  <a href="https://www.codecademy.com/learn/introduction-to-javascript">Learn JavaScript</a>
+  <a href="https://www.codecademy.com/learn/introduction-to-javascript">Learn JavaScript</a></li>
+  <li>Maraton HTML i CSS </br>
+  Organizer: GO IT
+  <a href="https://m.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=17380115250|135958449254|649820681037||go-it&gad=1&gclid=CjwKCAjw44mlBhAQEiwAqP3eVi6mJv2nBzVrbW0pn7-RKzXg2AnLwCt6mWvFAEyAkMxk0LlI0SKiYRoC_jEQAvD_BwE">Maraton HTML i CS</a></li>
   <li>Odśwież swój angielski (Update your English)</br>
   Organizer: Nauka angielskiego Underground </br>
   06/2022 - present </li>
