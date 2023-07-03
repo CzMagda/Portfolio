@@ -78,7 +78,7 @@ Manual Software Tester Portfolio
   Organizer: Codecademy </br>
   <a href="https://www.codecademy.com/learn/introduction-to-javascript">Learn JavaScript</a></li>
   <li>Maraton HTML i CSS </br>
-  Organizer: GO IT
+  Organizer: GO IT </br>
   <a href="https://m.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=17380115250|135958449254|649820681037||go-it&gad=1&gclid=CjwKCAjw44mlBhAQEiwAqP3eVi6mJv2nBzVrbW0pn7-RKzXg2AnLwCt6mWvFAEyAkMxk0LlI0SKiYRoC_jEQAvD_BwE">Maraton HTML i CS</a></li>
   <li>Odśwież swój angielski (Update your English)</br>
   Organizer: Nauka angielskiego Underground </br>
