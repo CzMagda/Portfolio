@@ -20,9 +20,9 @@ Manual Software Tester Portfolio
 
 <h2>Education</h2>
 <ul>
-  <li>"Software testing - postgraduate studies"; 10.2022-06.2023r. </br>
+  <li>"Software Tester - postgraduate studies"; 10.2022-06.2023r. </br>
   Organizer: Politechnika Białostocka, Wydział Informatyki </br>
-  <a href="https://tester.wi.pb.edu.pl/#new_tab">Software testing - postgraduate studies</a></li>
+  <a href="https://tester.wi.pb.edu.pl/#new_tab">Software Tester - postgraduate studies</a></li>
 </ul>
 
 <h2>Tech skills</h2>
