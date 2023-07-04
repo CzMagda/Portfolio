@@ -18,7 +18,7 @@ Manual Software Tester Portfolio
 <li>providing feedback of the applikations work</li>
 </ul>
 
-<h2>Education</h2>h2>
+<h2>Education</h2>
 <ul>
   <li>"Software testing - postgraduate studies"; 10.2022-06.2023r. </br>
   Organizer: Politechnika Białostocka, Wydział Informatyki </br>
