@@ -60,6 +60,9 @@ Manual Software Tester Portfolio
   <li>"Zostań Testerem" (Become a Tester) (48 h); 03-18.09.2022r. </br>
   Organizer: SII Training Practice </br>
   <a href="https://sii.pl/szkolenia/oferta/zostan-testerem/">Zostań Testerem</a></li>
+  <li>"Software testing - postgraduate studies"; 10.2022-06.2023r. </li>br>
+Organizer: Politechnika Białostocka, Wydział Informatyki </>br>
+<a href="https://tester.wi.pb.edu.pl/#new_tab">Software testing - postgraduate studies</a></li>
 </ul>
 
 <h2>Courses</h2>
