@@ -5,7 +5,7 @@ Manual Software Tester Portfolio
 <h2>About me</h2>
 <header/>
 
-<p>My name is Magdalena Czerech, a software tester student. I am looking for my first employment in this industry remotely or in person in Białystok. I am learning all the time by reading books and doing online courses. In June, I completed post-graduate studies "Software Tester" at the Białystok University of Technology. Recently, I learned how to use tools like <b>Postman</b>, <b>Git</b> and browser <b>DevTools</b>. Currently, I am focused on learning basics of <b>Web Development (HTML, CSS and JS)</b> to understand programming better. Moreover, I am preparing for the <b>ISTQB</b> exam. Additionally, to improve my english skills I decided to attend english classes.</p>
+<p>My name is Magdalena Czerech, a software tester student. I am looking for my first employment in this industry remotely or in person in Białystok. I am learning all the time by reading books and doing online courses. In June, I completed postgraduate studies "Software Tester" at the Białystok University of Technology. Recently, I learned how to use tools like <b>Postman</b>, <b>Git</b> and browser <b>DevTools</b>. Currently, I am focused on learning basics of <b>Web Development (HTML, CSS and JS)</b> to understand programming better. Moreover, I am preparing for the <b>ISTQB</b> exam. Additionally, to improve my english skills I decided to attend english classes.</p>
 
 <h2>Experience</h2>
 <ol>
